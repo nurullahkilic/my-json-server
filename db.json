@@ -148,7 +148,7 @@
         {
             "id": 3,
             "name": "La Perla Restaurant",
-            "rate": 4.2,
+            "rate": 2,
             "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/15/e0/8a/interno-del-locale.jpg",
             "location": "Antalya, Türkiye",
             "advice": "La Perla Restaurant, özellikle romantik yemekler için ideal bir mekan.",
@@ -256,7 +256,7 @@
         {
             "id": 5,
             "name": "Nusr-Et Steakhouse",
-            "rate": 4.5,
+            "rate": 5,
             "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/a8/bc/42/getlstd-property-photo.jpg",
             "location": "İstanbul, Türkiye",
             "advice": "Et yemekleri sevenlere harika bir seçim!",
