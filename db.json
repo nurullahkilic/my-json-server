@@ -5,87 +5,7 @@
             "title": "hello"
         }
     ],
-    "places": [
-        {
-            "auditCompanyName": "Bureau Veritas Gözetim Hizmetleri Ltd. Şti.",
-            "brandName": "Atlas",
-            "cityId": 37,
-            "cityName": "İZMİR",
-            "districtId": 464,
-            "districtName": "KONAK",
-            "hotelAddress": "ŞAİR EŞREF BULVARI İSMET KAPTAN MAH. NO:1 35210 KONAK/İZMİR",
-            "hotelEmail": "u.yildirim@atlasoteli.com.tr",
-            "hotelPhone": "2325044040",
-            "webSite": "http://www.atlasoteli.com.tr/index/",
-            "hotelImageAttachment": null,
-            "layoverFacilityType": "Yıldız Bilgisi Bulunmamaktadır",
-            "status": "Sertifika Verildi",
-            "validityDate": "2024-06-12T00:00:00Z"
-        },
-        {
-            "auditCompanyName": "Control Union Gözetim ve Belgelendirme Ltd. Şti.",
-            "brandName": "Aydınbey Famous Resort Hotel",
-            "cityId": 9,
-            "cityName": "ANTALYA",
-            "districtId": 93,
-            "districtName": "SERİK",
-            "hotelAddress": "BOĞAZAK MAH. 33. SOK. NO:51 BOĞAZKENT - SERİK/ANTALYA",
-            "hotelEmail": "gmfamous@aydinbeyhotels.com.tr",
-            "hotelPhone": "5326136083",
-            "webSite": "www.aydinbeyhotels.com.tr",
-            "hotelImageAttachment": "https://cdn.goturkiye.com/goturkiye/img-20230106-wa000092e613a9.jpg",
-            "layoverFacilityType": "5 Yıldızlı",
-            "status": "Sertifika Verildi",
-            "validityDate": "2023-11-20T00:00:00Z"
-        },
-        {
-            "auditCompanyName": "Control Union Gözetim ve Belgelendirme Ltd. Şti.",
-            "brandName": "Aydınbey Gold Dreams Hotel",
-            "cityId": 9,
-            "cityName": "ANTALYA",
-            "districtId": 84,
-            "districtName": "ALANYA",
-            "hotelAddress": "TÜRKLER MAH KARGI ÇİFTLİĞİ SOK NO:2 ALANYA / ANTALYA",
-            "hotelEmail": "a.cal@aydinbeyhotels.com.tr",
-            "hotelPhone": "0000000000",
-            "webSite": "www.aydinbeyhotels.com.tr",
-            "hotelImageAttachment": "https://cdn.goturkiye.com/goturkiye/aydinbey-gold-dreamsf9afeb1d.jpg",
-            "layoverFacilityType": "5 Yıldızlı",
-            "status": "Sertifika Verildi",
-            "validityDate": "2023-11-20T00:00:00Z"
-        },
-        {
-            "auditCompanyName": "Control Union Gözetim ve Belgelendirme Ltd. Şti.",
-            "brandName": "Aydınbey Kings Palace Otel",
-            "cityId": 9,
-            "cityName": "ANTALYA",
-            "districtId": 92,
-            "districtName": "MANAVGAT",
-            "hotelAddress": "EVRENSEKİ BELDESİ, SAHİL CAD. MANAVGAT-ANTALYA",
-            "hotelEmail": "c.ozturk@aydinbeyhotels.com.tr",
-            "hotelPhone": "2427630444",
-            "webSite": "https://aydinbeyhotels.com/tr/kings-palace-spa",
-            "hotelImageAttachment": "https://cdn.goturkiye.com/goturkiye/kings1be0c0674.jpg",
-            "layoverFacilityType": "5 Yıldızlı",
-            "status": "Sertifika Verildi",
-            "validityDate": "2023-11-20T00:00:00Z"
-        },
-        {
-            "auditCompanyName": "Control Union Gözetim ve Belgelendirme Ltd. Şti.",
-            "brandName": "Aydınbey Queen'S Palace & Spa",
-            "cityId": 9,
-            "cityName": "ANTALYA",
-            "districtId": 93,
-            "districtName": "SERİK",
-            "hotelAddress": "KADRİYE MAHALLESİ BEŞGÖZ CADDESİ NO:20/1 SERİK/ANTALYA",
-            "hotelEmail": "ertan.dalkilic@aydinbeyhotels.com.tr",
-            "hotelPhone": "5529957000",
-            "webSite": "www.aydinbeyhotels.com.tr",
-            "hotelImageAttachment": "https://cdn.goturkiye.com/goturkiye/aydinbey-queens-palece--spaa3405a54.jpg",
-            "layoverFacilityType": "5 Yıldızlı",
-            "status": "Sertifika Verildi",
-            "validityDate": "2023-11-20T00:00:00Z"
-        },
+    "old_places": [
         {
             "auditCompanyName": "Control Union Gözetim ve Belgelendirme Ltd. Şti.",
             "brandName": "Conrad İstanbul Bosphorus",
@@ -101,6 +21,345 @@
             "layoverFacilityType": "5 Yıldızlı",
             "status": "Sertifika Verildi",
             "validityDate": "2023-11-15T00:00:00Z"
+        }
+    ],
+    "places": [
+        {
+            "id": 1,
+            "name": "Hayat Restaurant",
+            "rate": 3,
+            "image": "https://media-cdn.tripadvisor.com/media/photo-w/1d/68/3f/87/we-are-waiting-for-you.jpg",
+            "location": "İstanbul, Türkiye",
+            "advice": "Bu mekanı ziyaret etmek için en uygun zaman yaz aylarıdır.",
+            "description": "Hayat Restaurant, İstanbul'un en iyi restoranlarından biri olarak kabul edilir. 2010 yılında kurulan restoran, Türk mutfağının en iyi örneklerini sunmaktadır. Hayat Restaurant, İstanbul'un en iyi restoranlarından biri olarak kabul edilir. 2010 yılında kurulan restoran, Türk mutfağının en iyi örneklerini sunmaktadır.",
+            "information": {
+                "address": "Cihannüma Mahallesi, Saray Cd. No:5, 34353 Beşiktaş/İstanbul",
+                "phone": "+90 212 310 25 25",
+                "email": "test@gmail.com",
+                "website": "https://www.hilton.com.tr/oteller/turkiye/istanbul/conrad-istanbul-bosphorus/"
+            },
+            "hours": {
+                "monday": "10:00 - 22:00",
+                "tuesday": "10:00 - 22:00",
+                "wednesday": "10:00 - 22:00",
+                "thursday": "10:00 - 22:00",
+                "friday": "10:00 - 22:00",
+                "saturday": "10:00 - 22:00",
+                "sunday": "10:00 - 22:00"
+            },
+            "tags": [
+                "Türk Mutfağı",
+                "Deniz Ürünleri",
+                "Akdeniz Mutfağı"
+            ],
+            "reviews_count": 2124,
+            "reviews": [
+                {
+                    "id": 1,
+                    "fullName": "Ahmet Yılmaz",
+                    "rate": 4,
+                    "comment": "Çok güzel bir yer",
+                    "date": "2021-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "fullName": "Mehmet Yılmaz",
+                    "rate": 5,
+                    "comment": "Çok güzel bir yer",
+                    "date": "2021-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "fullName": "Ali Yılmaz",
+                    "rate": 3,
+                    "comment": "Çok güzel bir yer",
+                    "date": "2021-01-01T00:00:00Z"
+                },
+                {
+                    "id": 4,
+                    "fullName": "Ayşe Yılmaz",
+                    "rate": 2,
+                    "comment": "Çok kötü deneyim yaşadım",
+                    "date": "2021-01-01T00:00:00Z"
+                },
+                {
+                    "id": 5,
+                    "fullName": "Fatma Yılmaz",
+                    "rate": 1,
+                    "comment": "Çok güzel bir yer",
+                    "date": "2021-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Lezzet Sofrası Restaurant",
+            "rate": 4,
+            "image": "https://media-cdn.tripadvisor.com/media/photo-o/14/64/f8/af/sevimli-bir-isletme.jpg",
+            "location": "Ankara, Türkiye",
+            "advice": "Lezzet Sofrası Restaurant'a akşam saatlerinde gitmenizi öneririm.",
+            "description": "Lezzet Sofrası Restaurant, Ankara'nın en iyi restoranlarından biri olarak kabul edilir. Türk mutfağının yanı sıra, dünya mutfağından da örnekler sunmaktadır. Lezzet Sofrası Restaurant, büyük grupların ağırlanabileceği, ferah bir mekandır.",
+            "information": {
+                "address": "Kültür, Şimşek Sk. No:1, 06570 Altındağ/Ankara",
+                "phone": "+90 312 312 12 12",
+                "email": "test2@gmail.com",
+                "website": "https://www.lezzetsofrasi.com.tr/"
+            },
+            "hours": {
+                "monday": "12:00 - 23:00",
+                "tuesday": "12:00 - 23:00",
+                "wednesday": "12:00 - 23:00",
+                "thursday": "12:00 - 23:00",
+                "friday": "12:00 - 23:00",
+                "saturday": "12:00 - 23:00",
+                "sunday": "12:00 - 23:00"
+            },
+            "tags": [
+                "Türk Mutfağı",
+                "Arap Mutfağı",
+                "Akşam Yemeği",
+                "Lezzetli Yemekler"
+            ],
+            "reviews_count": 1450,
+            "reviews": [
+                {
+                    "id": 1,
+                    "fullName": "Gamze Kaya",
+                    "rate": 5,
+                    "comment": "Harika bir yer, mutlaka denemenizi öneririm.",
+                    "date": "2021-02-15T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "fullName": "Özgür Aydın",
+                    "rate": 5,
+                    "comment": "Muazzam bir lezzet deneyimi yaşadım, herkese tavsiye ederim.",
+                    "date": "2021-02-02T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "fullName": "Merve Gök",
+                    "rate": 4,
+                    "comment": "Güzel bir yer, ancak fiyatlar biraz yüksek gibi geldi bana.",
+                    "date": "2021-01-22T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "La Perla Restaurant",
+            "rate": 4.2,
+            "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1d/15/e0/8a/interno-del-locale.jpg",
+            "location": "Antalya, Türkiye",
+            "advice": "La Perla Restaurant, özellikle romantik yemekler için ideal bir mekan.",
+            "description": "La Perla Restaurant, Antalya'nın en iyi İtalyan restoranlarından biri olarak bilinmektedir. Kaliteli malzemeler kullanarak hazırlanan yemeklerin yanısıra, şarapları ile de ünlüdür. La Perla Restaurant, açık havada yemek yeme imkanı da sunmaktadır.",
+            "information": {
+                "address": "Konyaaltı, 07100 Muratpaşa/Antalya",
+                "phone": "+90 242 312 23 23",
+                "email": "test3@gmail.com",
+                "website": "https://www.laperla.com.tr/"
+            },
+            "hours": {
+                "monday": "12:00 - 23:00",
+                "tuesday": "12:00 - 23:00",
+                "wednesday": "12:00 - 23:00",
+                "thursday": "12:00 - 23:00",
+                "friday": "12:00 - 23:00",
+                "saturday": "12:00 - 23:00",
+                "sunday": "12:00 - 23:00"
+            },
+            "tags": [
+                "İtalyan Mutfağı",
+                "Romantik Yemekler",
+                "Şaraplar",
+                "Açık Hava Mekanı"
+            ],
+            "reviews_count": 2060,
+            "reviews": [
+                {
+                    "id": 1,
+                    "fullName": "Burak Yılmaz",
+                    "rate": 5,
+                    "comment": "Harika bir yemek deneyimi yaşadım, özellikle makarnaları muhteşemdi.",
+                    "date": "2021-03-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "fullName": "Özge Gündoğan",
+                    "rate": 4,
+                    "comment": "Fiyatlar biraz yüksek ama lezzet gerçekten muhteşemdi.",
+                    "date": "2021-02-02T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "fullName": "Cemre Aksoy",
+                    "rate": 3,
+                    "comment": "Ortam güzel ama yemeklerin lezzeti biraz düşük kalmış gibi geldi bana.",
+                    "date": "2021-01-22T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Köşebaşı Restaurant",
+            "rate": 3,
+            "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/49/d3/2c/kosebasi-levent.jpg",
+            "location": "İstanbul, Türkiye",
+            "advice": "Köşebaşı Restaurant, özellikle et yemekleri için ideal bir mekan.",
+            "description": "Köşebaşı Restaurant, İstanbul'un en iyi et restoranlarından biri olarak bilinmektedir. Kaliteli malzemeler kullanarak hazırlanan yemeklerin yanısıra, şarapları ile de ünlüdür. Köşebaşı Restaurant, açık havada yemek yeme imkanı da sunmaktadır.",
+            "information": {
+                "address": "Kanyon AVM, Büyükdere Cd. No:185, 34394 Levent/İstanbul",
+                "phone": "+90 212 312 34 34",
+                "email": "asd@sad.com",
+                "website": "https://www.konyalilar.com.tr/"
+            },
+            "hours": {
+                "monday": "11:00 - 23:00",
+                "tuesday": "11:00 - 23:00",
+                "wednesday": "11:00 - 23:00",
+                "thursday": "11:00 - 23:00",
+                "friday": "11:00 - 23:00",
+                "saturday": "11:00 - 23:00",
+                "sunday": "11:00 - 23:00"
+            },
+            "tags": [
+                "Kebap",
+                "Türk Mutfağı",
+                "Aile Restoranı",
+                "Geniş Mekan"
+            ],
+            "reviews_count": 1894,
+            "reviews": [
+                {
+                    "id": 1,
+                    "fullName": "Taylan Yılmaz",
+                    "rate": 5,
+                    "comment": "Harika bir yemek deney imi yaşadım, özellikle makarnaları muhteşemdi.",
+                    "date": "2021-03-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "fullName": "Özge Gündoğan",
+                    "rate": 4,
+                    "comment": "Fiyatlar biraz yüksek ama lezzet gerçekten muhteşemdi.",
+                    "date": "2021-02-02T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "fullName": "Cemre Aksoy",
+                    "rate": 3,
+                    "comment": "Ortam güzel ama yemeklerin lezzeti biraz düşük kalmış gibi geldi bana.",
+                    "date": "2021-01-22T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Nusr-Et Steakhouse",
+            "rate": 4.5,
+            "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/a8/bc/42/getlstd-property-photo.jpg",
+            "location": "İstanbul, Türkiye",
+            "advice": "Et yemekleri sevenlere harika bir seçim!",
+            "description": "Nusr-Et Steakhouse, herbiri kendi lezzet dünyası olan ve tereyağından başka yağ kullanmayan, geleneksel usullerle hazırlanan et çeşitleriyle ünlüdür. Ayrıca ambiyansıyla da dikkat çeken Nusr-Et Steakhouse, İstanbul'daki 3 farklı konumuyla hizmet vermektedir.",
+            "information": {
+                "address": "Nişantaşı: Teşvikiye Mah. Bekar Sok. No: 13-15, Şişli, İstanbul",
+                "phone": "+90 212 219 19 00",
+                "email": "info@nusr-et.com.tr",
+                "website": "https://nusr-et.com.tr/"
+            },
+            "hours": {
+                "monday": "12:00 - 23:59",
+                "tuesday": "12:00 - 23:59",
+                "wednesday": "12:00 - 23:59",
+                "thursday": "12:00 - 23:59",
+                "friday": "12:00 - 23:59",
+                "saturday": "12:00 - 23:59",
+                "sunday": "12:00 - 23:59"
+            },
+            "tags": [
+                "Steakhouse",
+                "Et Yemekleri",
+                "Şık Restoran",
+                "Romantik Ortam"
+            ],
+            "reviews_count": 2615,
+            "reviews": [
+                {
+                    "id": 1,
+                    "fullName": "Onur Kara",
+                    "rate": 5,
+                    "comment": "Gerçekten harika bir deneyim oldu, etler inanılmaz lezzetliydi!",
+                    "date": "2021-03-16T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "fullName": "Senem Özkan",
+                    "rate": 4,
+                    "comment": "Fiyatlar biraz yüksek ama kalite de buna göre.",
+                    "date": "2021-02-24T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "fullName": "Mustafa Kaya",
+                    "rate": 3,
+                    "comment": "Lezzetliydi ama beklentileri tam olarak karşılamadı.",
+                    "date": "2021-02-03T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Mikla Restaurant",
+            "rate": 4,
+            "image": "https://media-cdn.tripadvisor.com/media/photo-w/12/5f/13/d7/photo3jpg.jpg",
+            "location": "İstanbul, Türkiye",
+            "advice": "Modern meze tarzı yemekler sevenler için önerilir.",
+            "description": "Mikla Restuarant, İstanbul Boğaziçi manzarasına nazır bir şekilde, Türk ve İskandinav yemek tarzlarını bir araya getiren meze tarzı menüsüyle öne çıkıyor. Şef Mehmet Gurs, yarattığı lezzetleri modern bir dokunuşla masanıza taşıyor. Mikla Restuarant, ortak bir çalışmayla küçük bir şef ekibi tarafından yönetiliyor.",
+            "information": {
+                "address": "The Marmara Pera, Meşrutiyet Cd. No:15, 34430 Beyoğlu/İstanbul",
+                "phone": "+90 212 293 5656",
+                "email": "info@miklarestaurant.com",
+                "website": "https://www.miklarestaurant.com/"
+            },
+            "hours": {
+                "monday": "19:00 - 23:00",
+                "tuesday": "19:00 - 23:00",
+                "wednesday": "19:00 - 23:00",
+                "thursday": "19:00 - 23:00",
+                "friday": "19:00 - 23:00",
+                "saturday": "19:00 - 23:00",
+                "sunday": "Kapalı"
+            },
+            "tags": [
+                "Modern Türk Mutfağı",
+                "Meze",
+                "Boğaziçi Manzarası",
+                "Sofistike Ortam"
+            ],
+            "reviews_count": 1541,
+            "reviews": [
+                {
+                    "id": 1,
+                    "fullName": "Emel Türker",
+                    "rate": 5,
+                    "comment": "Harika bir deneyimdi, lezzetler gerçekten birbirinden farklıydı ve harika bir manzaraya sahip.",
+                    "date": "2021-05-12T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "fullName": "Mert Özkan",
+                    "rate": 4,
+                    "comment": "Fiyatları biraz yüksek ama lezzetler buna değer!",
+                    "date": "2021-04-10T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "fullName": "Aylin Kılıç",
+                    "rate": 3,
+                    "comment": "Ortam harika ama bazı lezzetler biraz hayal kırıklığı yarattı.",
+                    "date": "2021-03-27T00:00:00Z"
+                }
+            ]
         }
     ]
 }
